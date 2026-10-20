@@ -18,10 +18,10 @@
 I love data. Working as an AI Associate, building with machine learning and
 data engineering.
 
-- 🔭 Currently building real, end-to-end ML/CV/NLP systems - not just notebooks
-- 🛠️ Comfortable across the whole stack: model work, the data engineering underneath it, and shipping it as something you can actually click through
-- 📍 Based in Delhi, India
-- 🎧 Probably has something playing on Spotify right now
+- 🛠️ Model work & the data engineering underneath it
+- 🎮 I like games :) especially Pokemon.
+- 🎧 probably has something playing on Spotify right now
+- 📖 I sometimes read too
 
 <br clear="right" />
 

@@ -20,7 +20,7 @@ data engineering.
 
 - 🛠️ Model work & the data engineering underneath it
 - 🎮 I like games :) especially Pokemon.
-- 🎧 probably has something playing on Spotify right now
+- 🎧 Probably have something playing on Spotify right now
 - 📖 I sometimes read too
 
 <br clear="right" />

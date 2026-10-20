@@ -18,6 +18,11 @@
 I love data. Working as an AI Associate, building with machine learning and
 data engineering.
 
+- 🔭 Currently building real, end-to-end ML/CV/NLP systems - not just notebooks
+- 🛠️ Comfortable across the whole stack: model work, the data engineering underneath it, and shipping it as something you can actually click through
+- 📍 Based in Delhi, India
+- 🎧 Probably has something playing on Spotify right now
+
 <br clear="right" />
 
 ## Tech

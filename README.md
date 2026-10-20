@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Abhinav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%7C%%20%%ML%20%2F%20%20%2F%20Data&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Abhinav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%7C%20%2F%ML%20%2F%20%20%2F%20Data&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/abhinavsingh-official">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=I+love+data;AI+Associate+working+across+ML%2C+CV+%26+NLP;I+build+real%2C+working+systems" alt="Typing SVG" />

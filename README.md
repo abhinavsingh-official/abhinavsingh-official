@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Abhinav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%7C%20%2F%ML%20%2F%20%20%2F%20Data&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0284C7&height=200&section=header&text=Abhinav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Associate%20-%20ML%2C%20CV%2C%20NLP%2C%20Data&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/abhinavsingh-official">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=I+love+data;AI+Associate+working+across+ML%2C+CV+%26+NLP;I+build+real%2C+working+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=I+love+data;AI+Associate+working+across+ML%2C+CV+%26+NLP;I+build+real%2C+working+systems" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## About
 
-I love data. Working as an AI Associate, building with machine learning and data engineering.
+I love data. Working as an AI Associate, building with machine learning and
+data engineering.
 
-<img align="right" width="140" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" />
+<img align="right" width="160" src="giratina.gif" />
 
 ## Tech
 
@@ -33,14 +34,12 @@ I love data. Working as an AI Associate, building with machine learning and data
 
 ## Pinned work
 
-- 🧠 **[Posture-Check](https://github.com/abhinavsingh-official/Posture-Check)** — a multi-mode OpenCV/MediaPipe playground: yoga form correction, workout rep counting, hand-gesture stickers, an air canvas, a virtual mouse, and a drowsiness monitor
-- 🎙️ **[EmotionDetect](https://github.com/abhinavsingh-official/EmotionDetect)** — voice emotion detection with a timeline mode across longer clips and conversations
-- 💬 **[SentimentAutomated](https://github.com/abhinavsingh-official/SentimentAutomated)** — live sentiment ingestion pipeline with heatmap reporting
-- 🔍 **[RAGReliabilityChecker](https://github.com/abhinavsingh-official/RAGReliabilityChecker)** — span-level hallucination detection for RAG answers, traced to source chunks
-- 🛡️ **[SafeNL2SQL](https://github.com/abhinavsingh-official/SafeNL2SQL)** — natural-language-to-SQL with a sqlglot-based safety layer
-- 📉 **[DriftWatchdog](https://github.com/abhinavsingh-official/DriftWatchdog)** — statistical drift detection and real accuracy tracking for a deployed classifier
-- 🖼️ **[BlurGate](https://github.com/abhinavsingh-official/BlurGate)** — a classical and a learned blur detector scored side by side
-- 📄 **[SkillGapMatcher](https://github.com/abhinavsingh-official/SkillGapMatcher)** — resume-to-job-description matcher with an explicit skills-gap breakdown
+- **[data-infra-learn](https://github.com/abhinavsingh-official/data-infra-learn)** — a hands-on data engineering platform: fix real injected ETL faults across Postgres, MongoDB, a Spark warehouse, a data lake, and a lakehouse, graded with real remediation writeups
+- **[EmotionDetect](https://github.com/abhinavsingh-official/EmotionDetect)** — real-time voice emotion detection using audio features with visual and CSV output
+- **[BlurGate](https://github.com/abhinavsingh-official/BlurGate)** — document/photo blur quality gate: a classical Laplacian-variance detector and a learned multi-feature classifier scored side by side, flagging where they disagree
+- **[DriftWatchdog](https://github.com/abhinavsingh-official/DriftWatchdog)** — watches a real deployed classifier for data/model drift: synthetic drift injection + statistical detection (ml3-drift) + live accuracy-decay tracking
+- **[RAGReliabilityChecker](https://github.com/abhinavsingh-official/RAGReliabilityChecker)** — checks whether a RAG answer is actually grounded in its retrieved context: span-level hallucination detection, not another RAG chatbot
+- **[SafeNL2SQL](https://github.com/abhinavsingh-official/SafeNL2SQL)** — natural-language-to-SQL with a real safety layer: sqlglot validates every generated query is a plain read-only SELECT before it ever touches the database
 
 ## Stats
 
@@ -53,15 +52,17 @@ I love data. Working as an AI Associate, building with machine learning and data
 
 </div>
 
-## Snake
+## My Contribution Graph
 
+<!-- pacman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavsingh-official/abhinavsingh-official/output/github-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abhinavsingh-official/abhinavsingh-official/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavsingh-official/abhinavsingh-official/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavsingh-official/abhinavsingh-official/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhinavsingh-official/abhinavsingh-official/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=abhinavsingh-official&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=abhinavsingh-official&color=0284C7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

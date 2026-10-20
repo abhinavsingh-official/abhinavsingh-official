@@ -13,12 +13,12 @@
 
 ## About
 
-<img align="right" width="160" src="giratina.gif" />
+<img width="160" style="float: right;" src="giratina.gif" />
 
 I love data. Working as an AI Associate, building with machine learning and
 data engineering.
 
-<br clear="right" />
+<div style="clear: both;"></div>
 
 ## Tech
 

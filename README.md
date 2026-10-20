@@ -1,19 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0284C7&height=200&section=header&text=Abhinav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Associate%20-%20ML%2C%20CV%2C%20NLP%2C%20Data&descAlignY=58&descSize=18" width="100%" />
-
 <a href="https://github.com/abhinavsingh-official">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=I+love+data;AI+Associate+working+across+ML%2C+CV+%26+NLP;I+build+real%2C+working+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Hi%2C+Thanks+for+checking+out+my+profile%21+%3A%29" alt="Typing SVG" />
 </a>
+
+<p>
+  <a href="https://www.linkedin.com/in/abhinavsinghofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/jx1txyeg57ny1g7qee23jdmln"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</p>
 
 </div>
 
 ## About
 
+<img align="right" width="160" src="giratina.gif" />
+
 I love data. Working as an AI Associate, building with machine learning and
 data engineering.
 
-<img align="right" width="160" src="giratina.gif" />
+<br clear="right" />
 
 ## Tech
 
@@ -31,26 +36,6 @@ data engineering.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Pinned work
-
-- **[data-infra-learn](https://github.com/abhinavsingh-official/data-infra-learn)** — a hands-on data engineering platform: fix real injected ETL faults across Postgres, MongoDB, a Spark warehouse, a data lake, and a lakehouse, graded with real remediation writeups
-- **[EmotionDetect](https://github.com/abhinavsingh-official/EmotionDetect)** — real-time voice emotion detection using audio features with visual and CSV output
-- **[BlurGate](https://github.com/abhinavsingh-official/BlurGate)** — document/photo blur quality gate: a classical Laplacian-variance detector and a learned multi-feature classifier scored side by side, flagging where they disagree
-- **[DriftWatchdog](https://github.com/abhinavsingh-official/DriftWatchdog)** — watches a real deployed classifier for data/model drift: synthetic drift injection + statistical detection (ml3-drift) + live accuracy-decay tracking
-- **[RAGReliabilityChecker](https://github.com/abhinavsingh-official/RAGReliabilityChecker)** — checks whether a RAG answer is actually grounded in its retrieved context: span-level hallucination detection, not another RAG chatbot
-- **[SafeNL2SQL](https://github.com/abhinavsingh-official/SafeNL2SQL)** — natural-language-to-SQL with a real safety layer: sqlglot validates every generated query is a plain read-only SELECT before it ever touches the database
-
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinavsingh-official&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsingh-official&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsingh-official&theme=radical&hide_border=true&background=0D1117" />
-
-</div>
 
 ## My Contribution Graph
 
